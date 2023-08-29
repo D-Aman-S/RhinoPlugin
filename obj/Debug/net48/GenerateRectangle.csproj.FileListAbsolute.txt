@@ -1,0 +1,9 @@
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\bin\Debug\net48\GenerateRectangle.rhp
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\bin\Debug\net48\GenerateRectangle.pdb
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\GenerateRectangle.csproj.AssemblyReference.cache
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\GenerateRectangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\GenerateRectangle.AssemblyInfoInputs.cache
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\GenerateRectangle.AssemblyInfo.cs
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\GenerateRectangle.csproj.CoreCompileInputs.cache
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\GenerateRectangle.rhp
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\GenerateRectangle.pdb

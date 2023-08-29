@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zff70i+5wgOr2iiKzo9qq/11t2e9j/hGu4YGCHfDwAJDS2t15ogijQirFqals+zvGYJv5gysfk+OGA1jP+EJgg==",
+  "success": true,
+  "projectFilePath": "E:\\codes\\vstudio\\repos\\Cpp_games\\TestingEto\\TestingEto\\GenerateRectangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aman singh\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

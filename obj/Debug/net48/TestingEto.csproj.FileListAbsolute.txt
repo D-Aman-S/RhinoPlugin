@@ -1,0 +1,9 @@
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\TestingEto.csproj.AssemblyReference.cache
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\TestingEto.GeneratedMSBuildEditorConfig.editorconfig
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\TestingEto.AssemblyInfoInputs.cache
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\TestingEto.AssemblyInfo.cs
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\TestingEto.csproj.CoreCompileInputs.cache
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\bin\Debug\net48\TestingEto.rhp
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\bin\Debug\net48\TestingEto.pdb
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\TestingEto.rhp
+E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\obj\Debug\net48\TestingEto.pdb

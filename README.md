@@ -8,7 +8,7 @@ This is a Simple Rhino Plugin that interacts with Rhino Apis and gives the user 
 <p>Give the file location of your .rhp file in bin folder and click on Ok, your plugin is now installed</p>
 
 <h1>Using the Plugin </h1>
-<h3>1.Go to tools->Options</h3>E:\codes\vstudio\repos\Cpp_games\TestingEto\TestingEto\assets\image.png
+<h3>1.Go to tools->Options</h3>
 <img src = "./assets/image.png">
 <h3>2.In the Options window ,Click on Generate Rectangle</h3>
 <img src = "./assets/image2.png">

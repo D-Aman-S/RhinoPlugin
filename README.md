@@ -9,12 +9,16 @@ This is a Simple Rhino Plugin that interacts with Rhino Apis and gives the user 
 
 <h1>Using the Plugin </h1>
 <h3>1.Go to tools->Options</h3>
-<img src = "./assets/image.png">
+![image](https://github.com/D-Aman-S/RhinoPlugin/assets/75574963/a2caeb80-059a-487c-9db3-57298330011b)
+
 <h3>2.In the Options window ,Click on Generate Rectangle</h3>
-<img src = "./assets/image2.png">
+![image2](https://github.com/D-Aman-S/RhinoPlugin/assets/75574963/0da58df6-a815-402c-9ce8-8a5a621166f6)
+
 <h3>3.Fill the values and click on generate</h3>
-<img src = "./assets/image3.png">
+![image3](https://github.com/D-Aman-S/RhinoPlugin/assets/75574963/e3196026-27ae-4788-bdca-c8d069180735)
+
 <h3>4.Your Rectangle is now Generated</h3>
-<img src = "./assets/image4.png">
+![image4](https://github.com/D-Aman-S/RhinoPlugin/assets/75574963/60386325-0123-41f2-800c-ed3b1daa4650)
+
 
 <h1>Thankyou</h1>
